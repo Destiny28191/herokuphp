@@ -12,6 +12,8 @@
     <input type = "text" id = "ipHomeSearch" placeholder = "Type your keyword here">
     <ul><p>List item 1</p></ul>
     <li> Another List item 1 <li>
+    <img src="images/exampleimg.jpg" alt="exampleimg">
+    <img src="flower-large.jpg">
     <p>To see all of our basketball videos, <a href="videos.html">click here</a>.</p>
     <href="https://example.com">
 </body>

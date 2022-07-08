@@ -25,6 +25,10 @@
     <ul>
         <li> Another List item 1 <li>
     </ul>
+    <!-- fix: Displays images with incorrect aspect ratio -->
+    <img src="images/exampleimg.jpg" alt="exampleimg" style="width: 300px; height: 200px">
+    <!-- fix: Serves images with low resolution -->
+    <img src="flower-large.jpg" srcset="flower-small.jpg 480w, flower-large.jpg 1080w" sizes="50vw">
     <!-- fix: Links do not have descriptive text -->
     <p>Check out all of our <a href="videos.html">basketball videos</a>.</p>
     <!-- fix: Document does not have a valid rel=canonical -->
