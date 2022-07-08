@@ -26,7 +26,7 @@
         <li> Another List item 1 <li>
     </ul>
     <!-- fix: Displays images with incorrect aspect ratio -->
-    <img src="web/images/exampleimg.jpg" alt="exampleimg" style="width: 300px; height: 200px">
+    <img src="images/exampleimg.jpg" alt="exampleimg" style="width: 300px; height: 200px">
     <!-- fix: Links do not have descriptive text -->
     <p>Check out all of our <a href="videos.html">basketball videos</a>.</p>
     <!-- fix: Document does not have a valid rel=canonical -->
