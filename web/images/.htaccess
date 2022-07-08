@@ -1,2 +1,1 @@
-<!-- Serve static assets with an efficient cache policy -->
 Header set Cache-Control "max-age=31536000"
