@@ -13,7 +13,7 @@
     <ul><p>List item 1</p></ul>
     <li> Another List item 1 <li>
     <img src="images/exampleimg.jpg" alt="exampleimg">
-    <img src="flower-large.jpg">
+    <img src="flower-large.jpg" alt="flowerlarge">
     <p>To see all of our basketball videos, <a href="videos.html">click here</a>.</p>
     <href="https://example.com">
 </body>
